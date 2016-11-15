@@ -27,7 +27,7 @@ https://tarasandrushko.github.io/homework-css1/index.html
  Репозиторій до другого слайду: https://github.com/tarasandrushko/homework-css2/tree/gh-pages
  
  Слайд:
-https://tarasandrushko.github.io/homework-css2/index2.html
+ https://tarasandrushko.github.io/Homework-css2/index2.html
 
 Валідність:
 ![slide 4](https://pp.vk.me/c636828/v636828543/33d43/faVKdwcAdqU.jpg)
